@@ -1,3 +1,6 @@
 [submodule "AutoDock"]
 	path = AutoDock
 	url = ../autodock
+[submodule "Chemistry"]
+	path = Chemistry
+	url = ../chemistry
