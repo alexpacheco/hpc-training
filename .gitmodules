@@ -25,3 +25,6 @@
 [submodule "OpenACC"]
 	path = OpenACC
 	url = ../openacc
+[submodule "OpenMP"]
+	path = OpenMP
+	url = ../openmp
