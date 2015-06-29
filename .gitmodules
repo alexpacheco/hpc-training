@@ -19,3 +19,6 @@
 [submodule "Linux"]
 	path = Linux
 	url = ../linux
+[submodule "Octave"]
+	path = Octave
+	url = ../octave
