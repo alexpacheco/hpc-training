@@ -7,3 +7,6 @@
 [submodule "CProgramming"]
 	path = CProgramming
 	url = ../cprog
+[submodule "Fortran"]
+	path = Fortran
+	url = ../fortran
