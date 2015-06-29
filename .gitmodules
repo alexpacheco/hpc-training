@@ -16,3 +16,6 @@
 [submodule "LaTeX"]
 	path = LaTeX
 	url = ../latex
+[submodule "Linux"]
+	path = Linux
+	url = ../linux
