@@ -4,3 +4,6 @@
 [submodule "Chemistry"]
 	path = Chemistry
 	url = ../chemistry
+[submodule "CProgramming"]
+	path = CProgramming
+	url = ../cprog
