@@ -1,0 +1,3 @@
+[submodule "AutoDock"]
+	path = AutoDock
+	url = ../autodock
