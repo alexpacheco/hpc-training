@@ -13,3 +13,6 @@
 [submodule "Globus"]
 	path = Globus
 	url = ../globus
+[submodule "LaTeX"]
+	path = LaTeX
+	url = ../latex
