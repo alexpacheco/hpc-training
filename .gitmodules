@@ -22,3 +22,6 @@
 [submodule "Octave"]
 	path = Octave
 	url = ../octave
+[submodule "OpenACC"]
+	path = OpenACC
+	url = ../openacc
