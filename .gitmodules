@@ -28,3 +28,6 @@
 [submodule "OpenMP"]
 	path = OpenMP
 	url = ../openmp
+[submodule "Shell"]
+	path = Shell
+	url = ../shell
