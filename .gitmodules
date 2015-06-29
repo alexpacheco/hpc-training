@@ -31,3 +31,6 @@
 [submodule "Shell"]
 	path = Shell
 	url = ../shell
+[submodule "UserEnv"]
+	path = UserEnv
+	url = ../userenv
