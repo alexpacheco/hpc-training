@@ -10,3 +10,6 @@
 [submodule "Fortran"]
 	path = Fortran
 	url = ../fortran
+[submodule "Globus"]
+	path = Globus
+	url = ../globus
