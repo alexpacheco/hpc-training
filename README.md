@@ -33,7 +33,7 @@ and molecular dyanamics
 
 # C Programming
 Repository for storing my presentation, TeX and PDF files for HPC 
-Training on Fortran. 
+Training on C Programming. 
 
 This two part tutorial describes C programming for beginners.
 
