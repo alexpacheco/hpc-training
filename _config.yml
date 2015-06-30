@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            HPC Training
 tagline:          '-Alex Pacheco'
 description:      'Slides for my presentations at HPC Training sessions'
-url:              
-baseurl:          
+url:              http://www.alexpacheco.us/
+baseurl:          hpc-training/
 
 author:
   name:           'Alex Pacheco'
