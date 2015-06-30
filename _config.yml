@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            HPC Training
+tagline:          '-Alex Pacheco'
+description:      'Slides for my presentations at HPC Training sessions'
+url:              
+baseurl:          
+
+author:
+  name:           'Alex Pacheco'
+  url:            http://www.alexpacheco.us
+
+# Custom vars
+version:          
+
+github:
+  repo:           https://github.com/alexpacheco/hpc-training
+  home:           htps://github.com/alexpacheco
