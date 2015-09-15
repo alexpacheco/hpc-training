@@ -77,14 +77,18 @@ This tutorial provides an overview of using LaTeX for creating documents
    * HPC Training Series at LSU on Oct. 30, 2013
 
 ## Linux
-This tutorial provides an introduction to Linux, basic commands and environment
-( [TeX](Linux/Linux.tex) | [PDF](Linux/Linux.pdf) ).
+This tutorial provides an introduction to Linux, basic commands and environment.
+
+  1. Part 1 ( [TeX](Linux-1.tex) | [PDF](Linux-1.pdf) )
+  2. Part 2 ( [TeX](Linux-2.tex) | [PDF](Linux-2.pdf) )
 
   * HPC Training Series at LSU on
     + Feb. 6, 2013
     + Sep. 11, 2013
     + Jan. 29, 2014
-  * LTS Seminar Series at Lehigh University in Feb. 2015
+  * LTS Seminar Series at Lehigh University on
+    + Feb. 2015
+    + Sep 2016
 
 ## GNU Octave
 This tutorial provides an introduction to GNU Octave. GNU Octave is a high-level interpreted 
