@@ -79,8 +79,8 @@ This tutorial provides an overview of using LaTeX for creating documents
 ## Linux
 This tutorial provides an introduction to Linux, basic commands and environment.
 
-  1. Part 1 ( [TeX](Linux-1.tex) | [PDF](Linux-1.pdf) )
-  2. Part 2 ( [TeX](Linux-2.tex) | [PDF](Linux-2.pdf) )
+  1. Part 1 ( [TeX](Linux/Linux-1.tex) | [PDF](Linux/Linux-1.pdf) )
+  2. Part 2 ( [TeX](Linux/Linux-2.tex) | [PDF](Linux/Linux-2.pdf) )
 
   * HPC Training Series at LSU on
     + Feb. 6, 2013
