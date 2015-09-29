@@ -122,14 +122,19 @@ This tutorial provides a brief introduction to parallel programming using OpenMP
 This tutorial covers bash and tcsh shell scripting concepts such as arrays, flow control, 
 command line arguments and functions. From Fall 2013 onwards, this tutorial is a two part 
 series wherein regex, sed, awk and other file manipulating utilities are covered in the 
-second part
-( [TeX](Shell/Shell-Scripting.tex) | [PDF](Shell/Shell-Scripting.pdf) ).
+second part.
+
+  1. Part 1 ( [TeX](Shell/Shell-Scripting-1.tex) | [PDF](Shell/Shell-Scripting-1.pdf) )
+  2. Part 2 ( [TeX](Shell/Shell-Scripting-2.tex) | [PDF](Shell/Shell-Scripting-2.pdf) )
 
   * HPC Training Series at LSU on
     + Sep. 26, 2012 
     + Feb. 27, 2013
     + Sep. 25 and Oct. 2, 2013  
-  * LTS Seminar Series at Lehigh University in Mar. 2015
+  * LTS Seminar Series at Lehigh University on
+    + Mar. 2015
+    + Sep./Oct. 2015
+
 
 ## User Environment
 This tutorial gives an overview of HPC Software Environment at LSU and LONI 
