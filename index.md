@@ -124,12 +124,24 @@ This tutorial provides a brief introduction to parallel programming using OpenMP
     + Jun. 10, 2013
     + Jun. 4, 2014
 
+## Parallel Programming Concepts
+This tutorial introduces parallel programming concepts.
+( [TeX](ParallelProgramming/parprog.tex) | [PDF](ParallelProgramming/parprog.pdf))
+
+  * Guest Lecture ME413, Lehigh University (Fall 2015)
+
+## Research Computing Resources at Lehigh
+This tutorial gives an overview of Research Computing Resources available to Lehigh Researchers.
+
+
 ## Shell Scripting
 This tutorial covers bash and tcsh shell scripting concepts such as arrays, flow control, 
 command line arguments and functions. From Fall 2013 onwards, this tutorial is a two part 
 series wherein regex, sed, awk and other file manipulating utilities are covered in the 
 second part
-( [TeX](Shell/Shell-Scripting.tex) | [PDF](Shell/Shell-Scripting.pdf) ).
+
+* Part I ( [TeX](Shell/Shell-Scripting-1.tex) | [PDF](Shell/Shell-Scripting-1.pdf) )
+* Part II ( [TeX](Shell/Shell-Scripting-2.tex) | [PDF](Shell/Shell-Scripting-2.pdf) )
 
   * HPC Training Series at LSU on
     + Sep. 26, 2012 
