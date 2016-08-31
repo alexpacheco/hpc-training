@@ -42,9 +42,8 @@ Repository for storing my presentation, TeX and PDF files for HPC
 Training on C Programming. 
 
 This two part tutorial describes C programming for beginners.
-
-  * Part I ( [TeX](CProgramming/CProg1.tex) | [PDF](CProgramming/CProg1.pdf) )
-  * Part II ( [TeX](CProgramming/CProg2.tex) | [PDF](CProgramming/CProg2.pdf) )
+ Part I ( [TeX](CProgramming/CProg1.tex) | [PDF](CProgramming/CProg1.pdf) )
+and Part II ( [TeX](CProgramming/CProg2.tex) | [PDF](CProgramming/CProg2.pdf) )
 
 
 ## Fortran
