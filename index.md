@@ -43,7 +43,7 @@ Training on C Programming.
 
 This two part tutorial describes C programming for beginners.
 
- Part I ( [TeX](CProgramming/CProg1.tex) | [PDF](CProgramming/CProg1.pdf) )
+Part I ( [TeX](CProgramming/CProg1.tex) | [PDF](CProgramming/CProg1.pdf) )
 and Part II ( [TeX](CProgramming/CProg2.tex) | [PDF](CProgramming/CProg2.pdf) )
 
 
@@ -84,9 +84,8 @@ This tutorial provides an overview of using LaTeX for creating documents
 
 ## Linux
 This tutorial provides an introduction to Linux, basic commands and environment.
-
-  * Part 1 ( [TeX](Linux/Linux-1.tex) | [PDF](Linux/Linux-1.pdf) )
-  * Part 2 ( [TeX](Linux/Linux-2.tex) | [PDF](Linux/Linux-2.pdf) )
+Part 1 ( [TeX](Linux/Linux-1.tex) | [PDF](Linux/Linux-1.pdf) )
+Part 2 ( [TeX](Linux/Linux-2.tex) | [PDF](Linux/Linux-2.pdf) )
 
   * HPC Training Series at LSU on
     + Feb. 6, 2013
