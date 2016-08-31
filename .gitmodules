@@ -34,3 +34,6 @@
 [submodule "UserEnv"]
 	path = UserEnv
 	url = ../userenv
+[submodule "HPC"]
+	path = HPC
+	url = ../hpc
