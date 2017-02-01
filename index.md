@@ -80,7 +80,15 @@ computational science and engineering research
 This tutorial provides an overview of using LaTeX for creating documents
 ( [TeX](LaTeX/LaTeX.tex) | [PDF](LaTeX/LaTeX.pdf) ).
 
-   * HPC Training Series at LSU on Oct. 30, 2013
+   * HPC Training Series at 
+        * LSU on Oct. 30, 2013
+        * Lehigh University on Apr. 3, 2017 
+
+### Powerdot Style File for presentation
+
+ * [LSU](LaTeX/powerdot-lsuloni.sty)
+ * [Lehigh](LaTeX/powerdot-lehigh.sty) 
+
 
 ## Linux
 This tutorial provides an introduction to Linux, basic commands and environment.
