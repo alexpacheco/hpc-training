@@ -101,7 +101,11 @@ Part 2 ( [TeX](Linux/Linux-2.tex) | [PDF](Linux/Linux-2.pdf) )
     + Jan. 29, 2014
   * LTS Seminar Series at Lehigh University on
     + Feb. 2015
-    + Sep 2016
+    + Sep. 2016
+    + Feb. 2017
+    + Sep. 2017
+    + Feb. 2018
+    + Jun. 2018
 
 ## GNU Octave
 This tutorial provides an introduction to GNU Octave. GNU Octave is a high-level interpreted 
