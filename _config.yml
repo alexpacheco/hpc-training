@@ -9,12 +9,12 @@ permalink:        pretty
 title:            HPC Training
 tagline:          '-Alex Pacheco'
 description:      'Slides for my presentations at HPC Training sessions'
-url:              http://www.alexpacheco.net
+url:              https://www.alexpacheco.net
 baseurl:          /hpc-training
 
 author:
   name:           'Alex Pacheco'
-  url:            http://www.alexpacheco.net
+  url:            https://www.alexpacheco.net
 
 # Custom vars
 version:          
