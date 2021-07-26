@@ -58,7 +58,7 @@ intermediate ( [TeX](Fortran/Fortran2.tex) |
 
   * LONI Workshop at LSU on Feb. 14, 2012
   * HPC Training Series at LSU on Feb. 19, and Mar. 12, 2014
-  * LTS Programming Workshop at Lehigh University on June 1-2, 2015
+  * HPC Programming Workshop at Lehigh University on June 1-2, 2015, and June 28-30, 2021
 
 ## Globus
 This tutorial provides an overview on how to use globus tools on LONI Supercomputers 
@@ -121,19 +121,27 @@ that is mostly compatible with Matlab. ( [TeX](Octave/Octave.tex) | [PDF](Octave
 ## OpenACC
 This tutorial provides a brief introduction to parallel programming using OpenACC directives. 
 Inspired by the OpenACC workshop conducted by Pittsburgh Supercomputing Center 
-( [TeX](OpenACC/OpenACC.tex) | [PDF](OpenACC/OpenACC.pdf) ).
+( [TeX](OpenACC/openacc.tex) | [PDF](OpenACC/openacc.pdf) ).
 
   * LONI Workshop at LSU on Jun. 10, 2013
   * HPC Training Series at LSU on Mar. 26, 2014
+  * Parallel Programming Workshop at Lehigh on
+    + Jun.  1, 2017
+    + Jul. 18, 2018
+    + Jul. 14, 2021
 
 ## OpenMP
 This tutorial provides a brief introduction to parallel programming using OpenMP directives 
-( [TeX](OpenMP/OpenMP.tex) | [PDF](OpenMP/OpenMP.pdf) ).
+( [TeX](OpenMP/openmp.tex) | [PDF](OpenMP/openmp.pdf) ).
 
   * LONI Workshop at LSU on
     + Feb. 16, 2012 
     + Jun. 10, 2013
     + Jun. 4, 2014
+  * Parallel Programming Workshop at Lehigh on
+    + May. 31, 2017
+    + Jul. 17, 2018
+    + Jul 14, 2021
 
 ## Parallel Programming Concepts
 This tutorial introduces parallel programming concepts.
